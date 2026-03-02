@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="left">Hi 👋! My name is Tetsuyaand I'm not a a really good programmer so just dont expect to much</h2>
+<h2 align="left"><a href="https://tetsuyajar.github.io/homepage/">Hey!<a> My name is Tetsuyaand I'm not a a really good programmer so just dont expect to much</h2>
 
 ###
 
